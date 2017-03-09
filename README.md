@@ -1,27 +1,50 @@
 <!DOCTYPE html>
-<html> 
-
-  </head> 
-  	<meta charset="utf-8">
-		<title>After Best-Picture Fiasco, Two Accountants Will Not Be Invited Back to the Oscars</title>
+<html
+	<head>
+		<meta charset="utf-8">
+		<title>Web Fundamentals Test</title>
 		<link rel="stylesheet" href="About Me/About me.css">
-    
-    	<style type="text/css">
-      @import url('https://fonts.googleapis.com/css?family=Droid+Serif:700');
-      
-      #header {
-        font-family: 'Droid-serif,' serif;
+
+		<style type="text/css">
+			
+		@import url('https://fonts.googleapis.com/css?family=Droid+Serif:700');
+        @import url('https://fonts.googleapis.com/css?family=Droid+Serif:400,700');
+        @import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
         
-        }
+        	#header { 
+        	font-family: 'Droid-Serif', serif;
+            font-size: 70px;
+            text-align: center;
+        	}
+            
+            #dek {
+            font-family: 'Droid-Serif', serif
+            font-size: 20px;
+            text-align: center;
+            }
+            
+             #author {
+            font-family: 'Julius Sans One', sans serif;
+            font-size: 15px;
+            text-align: center;  
+            }
+            
+               #author1 {
+            font-family: 'Julius Sans One', sans serif;
+            font-size: 13px;
+            text-align: center;  
+            color: gray;
+            }
+        </style>
     
-   <head>
+   </head>
   </body> 
   
-  <h1>After Best-Picture Fiasco, Two Accountants Will Not Be Invited Back to the Oscars</h1>
-  <h2> Brian Cullinan and Martha Ruiz, the PricewaterhouseCoopers accountants responsible for that major mistake, will no longer be part of the ceremony.</h2>
+  <h2 id='header'> After Best-Picture Fiasco, Two Accountants Will Not Be Invited Back to the Oscars</h2>
+  <h3 id='dek'> Brian Cullinan and Martha Ruiz, the PricewaterhouseCoopers accountants responsible for that major mistake, will no longer be part of the ceremony.</h3>
   
-  <p> by Yohana Desta </p>
-  <p> March 1, 2017 4:05PM </p>
+  <p id='author'> by Yohana Desta </p>
+  <p id='author1'> March 1, 2017 4:05PM </p>
   
   <p>Ater the botched best-picture announcement at Sunday night’s Oscars, Academy president Cheryl Boone Isaacs told the Associated Press that both accountants responsible for the flub would not be invited back to work the prestigious awards ceremony. 
   An Academy spokesperson confirmed the decision to Vanity Fair. The PricewaterhouseCoopers veterans, Brian Cullinan and Martha Ruiz,—the only people who knew the winners’ list beforehand, and were responsible for handing the correct envelopes to Oscar presenters—came under fire after La La Land was mistakenly announced as the best-picture winner. 
@@ -38,3 +61,5 @@
   
   <body>
 </html>
+
+
